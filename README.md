@@ -26,7 +26,7 @@ To run this project locally:
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/react-notes-app.git
+   git clone https://github.com/mister97/react-notes-app.git
    ```
 2. Navigate to the project directory
    ```
@@ -66,14 +66,12 @@ The main component `App.js` contains all the logic for the application:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/react-notes-app/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/mister97/react-notes-app/issues) if you want to contribute.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Contact
+## Misc
 
-Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - email@example.com
-
-Project Link: [https://github.com/yourusername/react-notes-app](https://github.com/yourusername/react-notes-app)
+Project Link: [https://github.com/mister97/react-notes-app](https://github.com/mister97/react-notes-app)
